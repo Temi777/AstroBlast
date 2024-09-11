@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroBlast", "AstroBlast.csproj", "{8523D3BE-CFDF-497A-807F-BE7DB694F8E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8523D3BE-CFDF-497A-807F-BE7DB694F8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8523D3BE-CFDF-497A-807F-BE7DB694F8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8523D3BE-CFDF-497A-807F-BE7DB694F8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8523D3BE-CFDF-497A-807F-BE7DB694F8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C781DD6-A4DC-4956-A553-C01D295E6E26}
+	EndGlobalSection
+EndGlobal
